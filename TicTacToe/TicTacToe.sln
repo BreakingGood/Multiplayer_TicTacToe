@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe", "TicTacToe\TicTacToe.vcxproj", "{89319363-3404-482E-96FF-FD61443201C4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe_SERVER", "TicTacToe_SERVER\TicTacToe_SERVER.vcxproj", "{BD7B9A8B-EF18-4DE0-A267-40C323342D6B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dummy", "Dummy\Dummy.vcxproj", "{31BC23E4-0A98-48CC-B7BE-42E9B58A711A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89319363-3404-482E-96FF-FD61443201C4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89319363-3404-482E-96FF-FD61443201C4}.Debug|Win32.Build.0 = Debug|Win32
+		{89319363-3404-482E-96FF-FD61443201C4}.Release|Win32.ActiveCfg = Release|Win32
+		{89319363-3404-482E-96FF-FD61443201C4}.Release|Win32.Build.0 = Release|Win32
+		{BD7B9A8B-EF18-4DE0-A267-40C323342D6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD7B9A8B-EF18-4DE0-A267-40C323342D6B}.Debug|Win32.Build.0 = Debug|Win32
+		{BD7B9A8B-EF18-4DE0-A267-40C323342D6B}.Release|Win32.ActiveCfg = Release|Win32
+		{BD7B9A8B-EF18-4DE0-A267-40C323342D6B}.Release|Win32.Build.0 = Release|Win32
+		{31BC23E4-0A98-48CC-B7BE-42E9B58A711A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31BC23E4-0A98-48CC-B7BE-42E9B58A711A}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
