@@ -14,6 +14,8 @@ Boost.Thread http://www.boost.org/doc/libs/1_55_0/doc/html/thread.html is used t
 the font used is OpenSans http://www.google.com/fonts/specimen/Open+Sans and it is used under the Apache 2.0 license. 
 
 
+The Dummy folder included in this repository is simply a workaround to allow Visual Studio 2010 to launch 2 instances of the client every time I began debugging (which was faster and more convenient than potential alternative actions).
+
 To use: Start up TicTacToe_SERVER.exe, this is the server. 
 
 Start up 2 instances of TicTacToe.exe (this is the client), and follow the instructions displayed on the server in order to connect. 
